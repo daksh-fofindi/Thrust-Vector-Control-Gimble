@@ -83,7 +83,7 @@ Install all via **Tools → Manage Libraries**:
 
 ```
 tvc_pid/
-├── tvc_pid.ino      # Main firmware
+├── tvc-pid.ino      # Main firmware
 └── README.md        # This file
 ```
 
